@@ -82,7 +82,12 @@ Order-level data with fields including:
 
 ---
 
-## 👤 Author
+## **Mithun M**
 
-**Mithun M**
-Data Analyst | Python • SQL • Power BI • Excel
+Aspiring **Data Analyst**
+
+### Technical Skills
+
+`Excel` `Data Analytics` 
+
+---
